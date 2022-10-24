@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Elif_gonul_ayar_calculator" parent="Theme.AppCompat">
 
-        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimary">@color/green</item>
         <item name="colorPrimaryVariant">@color/temperBlack</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
